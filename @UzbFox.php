@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','750051488:AAHfnMFJFqCFnHr154kFGcTmpPNne7mSrE4'); 
+define('API_KEY','1084264039:AAHZidLGB22ESYpSdNxEets6MsN7jg0wAf8'); 
 $admin = "518832527"; //admin id
 
    function del($nomi){
